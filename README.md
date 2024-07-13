@@ -15,6 +15,7 @@ DigitsInk is a project that demonstrates the use of PyTorch and the torchvision 
 ## Project Overview
 The goal of this project is to build a machine learning model that can accurately recognize handwritten digits using the MNIST dataset. The MNIST dataset is a collection of 70,000 images of handwritten digits (0-9) that has been widely used for training and testing in the field of machine learning.
 
+
 ## Images
 ![img3](https://github.com/user-attachments/assets/ab026ef9-9468-44d7-a516-1263a185c761)
 ![img2](https://github.com/user-attachments/assets/72f85f32-6b7d-454c-a911-63d4f53674f8)
